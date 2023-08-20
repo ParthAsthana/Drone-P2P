@@ -1,4 +1,4 @@
-# Emran x Navdeep Computer Networks Project Two
+# Networks Project
 
 ## Set Up
 
@@ -18,7 +18,7 @@ We also recommend using Windows 11.
 To clone this package into a workspace:
 
 ```
-git clone https://github.com/lilpharaoh1/comp-networks-2023.git
+git clone https://github.com/ParthAsthana/Drone-P2P
 ```
 
 Enter into the directory and install the required packages
